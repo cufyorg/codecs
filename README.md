@@ -1,3 +1,10 @@
+This repository was archived, its successors are:
+
+- https://github.com/cufyorg/josekt
+- https://github.com/cufyorg/extkt
+- https://github.com/cufyorg/mongokt
+- https://github.com/cufyorg/ped
+
 # Kotlin Extensions [![](https://jitpack.io/v/org.cufy/extkt.svg)](https://jitpack.io/#org.cufy/extkt)
 
 Kotlin Extensions for enhancing partial encoding and decoding that uses no object mapping.
